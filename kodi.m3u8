@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="TV1" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="MALAYSIA",TV1
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+#EXTINF:-1 tvg-name="TV2" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="MALAYSIA",TV2
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+#EXTINF:-1 tvg-name="TV3" tvg-logo="https://baseimages.tonton.com.my/1514366375397_channel-logo-tv3.png" group-title="MALAYSIA",TV3
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+#EXTINF:-1 tvg-name="NTV 7" tvg-logo="https://www.vectorise.net/forums/downloads/ntv7_k0C.png" group-title="MALAYSIA",NTV 7
+http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+#EXTINF:-1 tvg-name="8TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/8TV_my.svg/1280px-8TV_my.svg.png" group-title="MALAYSIA",8TV
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+#EXTINF:-1 tvg-name="TV9" tvg-logo="https://p7.hiclipart.com/preview/281/253/75/malaysia-tv9-media-prima-tv3-8tv-networking-topics-thumbnail.jpg" group-title="MALAYSIA",TV9
+http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+#EXTINF:-1 tvg-name="TV ALHIJRAH" group-title="MALAYSIA",TV ALHIJRAH
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+#EXTINF:-1 tvg-name="ASTRO OASIS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="MALAYSIA",ASTRO OASIS
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF:-1 tvg-name="ASTRO AWANI" tvg-logo="https://de-digital-fortress-stg-assets.eco.astro.com.my/staging/2a4ea8d2d2e75e576b4a7de761113bc3.png" group-title="MALAYSIA",ASTRO AWANI
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+#EXTINF:-1 tvg-name="BERNAMA TV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="MALAYSIA",Bernama TV
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
